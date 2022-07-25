@@ -1,4 +1,4 @@
-- Hi, I’m @AarushiKapadia, currently studying Computer Science (Second year).
+- Hi, I’m @AarushiKapadia, currently studying Computer Science (Third year).
 - I’m interested in learning new concepts and beginning new projects in different fields. 
 - I’m currently learning Object Oriented Programming and improving my skills in Python. 
 - I’m open to new opportunities and projects. 
